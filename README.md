@@ -4,7 +4,7 @@
   <img src="assets/quadrotor-sketch.png" alt="Crazyflie sketch" width="350">
 </p>
 
-Central index for all Crazyflie work at the UIUC Coordinated Science Laboratory (CSL), Center for Autonomy (CfA).
+Central index for all Crazyflie work at the University of Illinois, Urbana Champaign.
 
 This repo points you to the right repo and the right person. Setup, demo, and hardware docs live in each linked repo.
 
