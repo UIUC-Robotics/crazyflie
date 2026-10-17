@@ -19,7 +19,6 @@ This repo holds no code. It points you to the right repo and the right person. S
 
 - **Staff only:** `crazyflie-demo`. Do not share it with current ECE484 students.
 - **Students:** use the course org starter repo only.
-- **External visitors:** get a live flight and the demo video, not repo access.
 
 ## Safety
 
