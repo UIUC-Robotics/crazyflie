@@ -37,6 +37,5 @@ No live flight without props-off bench testing first. The full pre-flight runboo
 |---|---|
 | Hub maintainer, demo, ECE484 drone track | Amey Gavale |
 | PI | Prof. Sayan Mitra |
-| Hardware and drone builds | Abhishek Pai |
 | Vision stack | Teodor Tchalakov |
 | Vision-based controllers | Krishna, Chenxi |
