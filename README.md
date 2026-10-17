@@ -8,12 +8,12 @@ This repo holds no code. It points you to the right repo and the right person. S
 
 ## Repositories
 
-| Repo | Purpose | Owner | Status |
-|---|---|---|---|
-| `crazyflie-demo` | Showcase flight for CfA visitors and ECE484 demos | Amey Gavale | Active |
-| `safeautonomy-illinois-students/fa26-drone-track-release` | ECE484 Fall '26 student starter code | Amey Gavale / ECE484 staff | Active |
-| `<repo-name>` | AI Deck camera streaming and vision stack | Teodor Tchalakov | _ |
-| `<repo-name>` | Vision-based Crazyflie controllers | Krishna, Chenxi | _ |
+| Repo | Purpose | Status |
+|---|---|---|
+| `crazyflie-demo` | Showcase flight for CfA visitors and ECE484 demos | Active |
+| `safeautonomy-illinois-students/fa26-drone-track-release` | ECE484 Fall '26 student starter code | Active |
+| `<repo-name>` | AI Deck camera streaming and vision stack | _ |
+| `<repo-name>` | Vision-based Crazyflie controllers | _ |
 
 ## Access
 
