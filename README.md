@@ -32,9 +32,4 @@ No live flight without props-off bench testing first. The full pre-flight runboo
 
 ## Contacts
 
-| Topic | Person |
-|---|---|
-| Hub maintainer, demo, ECE484 drone track | Amey Gavale |
-| PI | Prof. Sayan Mitra |
-| Vision stack | Teodor Tchalakov |
-| Vision-based controllers | Krishna, Chenxi |
+Center for Autonomy, UIUC Staff
