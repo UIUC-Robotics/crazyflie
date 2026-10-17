@@ -1,4 +1,4 @@
-# Crazyflie @ UIUC Center for Autonomy
+# Crazyflie @ University of Illinois, Urbana Champaign
 
 <p align="center">
   <img src="assets/quadrotor-sketch.png" alt="Crazyflie sketch" width="350">
