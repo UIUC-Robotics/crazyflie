@@ -1,5 +1,9 @@
 # Crazyflie @ UIUC Center for Autonomy
 
+<p align="center">
+  <img src="assets/quadrotor-sketch.png" alt="Crazyflie sketch" width="350">
+</p>
+
 Central index for all Crazyflie 2.1 work at the UIUC Coordinated Science Laboratory (CSL), Center for Autonomy (CfA).
 
 This repo holds no code. It points you to the right repo and the right person. Setup, demo, and hardware docs live in each linked repo.
