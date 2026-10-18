@@ -14,8 +14,8 @@ This repo points you to the right repo and the right person. Setup, demo, and ha
 
 | Repo | Purpose | Status |
 |---|---|---|
-| [fa26-drone-track-release](https://github.com/safeautonomy-illinois-students/fa26-drone-track-release) | ECE484 Fall '26 student starter code | Active |
-| [Crazyflie-Lab](https://github.com/IllinoisReliableAutonomyGroup/Crazyflie-Lab) | Crazyflie 2.1 Brushless and AI-deck research SDK | Active |
+| [fa26-drone-track-release](https://github.com/safeautonomy-illinois-students/fa26-drone-track-release) | ECE484 Fall '26 student starter code | Active (ECE484 students repo) |
+| [crazyflie-Lab](https://github.com/IllinoisReliableAutonomyGroup/Crazyflie-Lab) | Crazyflie 2.1 Brushless and AI-deck research SDK | Active |
 | [crazyflie-firmware](https://github.com/IllinoisReliableAutonomyGroup/crazyflie-firmware) | Crazyflie firmware source and development | Reference |
 
 ## Access
@@ -28,7 +28,7 @@ This repo points you to the right repo and the right person. Setup, demo, and ha
 
 ## Adding Your Repo
 
-1. Transfer it into `UIUC-Robotics`, or keep it where it is and link it here.
+1. Link your repo here to `UIUC-Robotics`.
 2. Add the GitHub topic `crazyflie`.
 3. Open a PR adding a row to the table above.
 
