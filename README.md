@@ -14,19 +14,17 @@ This repo points you to the right repo and the right person. Setup, demo, and ha
 
 | Repo | Purpose | Status |
 |---|---|---|
-| `crazyflie-demo` | Showcase flight for CfA visitors and ECE484 demos | Active |
-| `safeautonomy-illinois-students/fa26-drone-track-release` | ECE484 Fall '26 student starter code | Active |
-| `<repo-name>` | AI Deck camera streaming and vision stack | _ |
-| `<repo-name>` | Vision-based Crazyflie controllers | _ |
+| [fa26-drone-track-release](https://github.com/safeautonomy-illinois-students/fa26-drone-track-release) | ECE484 Fall '26 student starter code | Active |
+| [Crazyflie-Lab](https://github.com/IllinoisReliableAutonomyGroup/Crazyflie-Lab) | Crazyflie 2.1 Brushless and AI-deck research SDK | Active |
+| [crazyflie-firmware](https://github.com/IllinoisReliableAutonomyGroup/crazyflie-firmware) | Crazyflie firmware source and development | Reference |
 
 ## Access
 
-- **Staff only:** `crazyflie-demo`. Do not share it with current ECE484 students.
-- **Students:** use the course org starter repo only.
+- **Public resources:** This repository serves as the central index for Crazyflie projects, documentation, and research at UIUC.
+- **Students:** Access course-specific starter code and other publicly available repositories linked above.
+- **Researchers and contributors:** Access individual project repositories according to their respective permissions.
+- **Restricted resources:** Internal demonstrations and other restricted research materials are maintained separately and are accessible only to authorized personnel.
 
-## Safety
-
-No live flight without props-off bench testing first. The full pre-flight runbook is in `crazyflie-demo`.
 
 ## Adding Your Repo
 
@@ -36,4 +34,4 @@ No live flight without props-off bench testing first. The full pre-flight runboo
 
 ## Contacts
 
-Center for Autonomy, UIUC Staff
+Center for Autonomy, UIUC - Staff
